@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: row;
+}
+
+.todos {
+  background: grey;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+
+.done {
+  background: grey;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
